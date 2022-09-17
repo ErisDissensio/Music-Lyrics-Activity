@@ -1,0 +1,64 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+<link rel="stylesheet" type="text/css" href="style.css">
+</HEAD>
+
+<BODY text="black">		
+<h1>Shiver</h1>
+<h2>By: Lucy Rose</h2>
+
+<p>And we broke<br>
+Everything that was right<br>
+We both enjoyed a good fight<br>
+And we sewed<br>
+All the holes we had to breathe<br>
+To make the other one leave<br>
+</p>
+<p>And I loved the way you looked at me<br>
+And I miss the way you made me feel<br>
+When we were alone<br>
+When we were alone<br>
+</p>
+<p>And I'll shiver like I used to<br>
+And I'll leave him just for you<br>
+And I'll shiver like I used to<br>
+Just for you<br>
+</p>
+<p>And we stole<br>
+Every moment we had<br>
+To make the other one feel bad<br>
+And we hoped<br>
+That we could be what we knew<br>
+It never turned out to be real<br>
+</p>
+<p>And I loved the way you looked at me<br>
+And I miss the way you made me feel<br>
+When we were alone<br>
+When we were alone<br>
+</p>
+<p>And I'll shiver like I used to<br>
+And I'll leave him just for you<br>
+And I'll shiver like I used to<br>
+Just for you<br>
+</p>
+<p>And if we turn back time<br>
+Could we learn to live right?<br>
+And if we turn back time<br>
+Could we learn to live right?<br>
+And if we turn back time<br>
+Could we learn to live right?<br>
+And if we turn back time<br>
+Could we learn?<br>
+</p>
+<p>And I'll shiver like I used to<br>
+And I'll leave him just for you<br>
+And I'll shiver like I used to<br>
+Just for you<br>
+Like I used to<br>
+</p>
+<audio controls>
+<source src="lucy rose.mp3" type="audio/mpeg">
+</audio>
+</BODY>
+</HTML>
